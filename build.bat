@@ -1,0 +1,1 @@
+nuitka --onefile --enable-plugin=pyqt6 search.py
